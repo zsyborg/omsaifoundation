@@ -33,7 +33,7 @@ const page = () => {
                 data-aos-duration={1500}
                 data-aos-offset={50}
               >
-                <span className="sub-title mb-15">Om Sai Kripa Foundation</span>
+                <span className="sub-title mb-15 mt-30">Om Sai Kripa Foundation</span>
                 <h1>De-Addication & Rehablitation Wellness Center</h1>
                 <p>
                   Take care of your loved ones and make them better.
