@@ -1,4 +1,5 @@
 import Link from "next/link";
+import React, { useEffect, useState } from 'react';
 
 const Footer = ({ footer }) => {
   switch (footer) {
@@ -443,6 +444,24 @@ const Footer2 = () => {
 };
 
 const Footer3 = () => {
+
+  const [data, setData] = useState([]);
+    useEffect(() => {
+        fetch('https://quotes-api-self.vercel.app/quote')
+      .then(response => response.json())
+      .then(data => {
+        // Handle the retrieved quote
+        setData(data);
+        console.log(data);
+      })
+      .catch(error => {
+        // Handle any errors
+        console.error(error);
+      });
+    }
+    , []);
+
+
   return (
     <footer className="main-footer bgc-blue pt-80 rel z-1">
       <div className="container">
@@ -491,22 +510,22 @@ const Footer3 = () => {
               <ul>
                 
                 <li>
-                  <Link href="services">
+                  <Link href="detox">
                     <i className="far fa-angle-right" /> 28 Days Detox
                   </Link>
                 </li>
                 <li>
-                  <Link href="services">
+                  <Link href="inpatient">
                     <i className="far fa-angle-right" /> Inpatient Rehabilitation
                   </Link>
                 </li>
                 <li>
-                  <Link href="blog">
+                  <Link href="outpatient">
                     <i className="far fa-angle-right" /> Outpatient Relapse Prevention
                   </Link>
                   </li>
                 <li>
-                  <Link href="blog">
+                  <Link href="counselling">
                     <i className="far fa-angle-right" /> Rehab Counselling Centre
                   </Link>
                 </li>
@@ -529,8 +548,7 @@ const Footer3 = () => {
             >
               <h5 className="footer-title">Quote of the moment</h5>
               <p>
-                We deliver fresh content straight to your inbox join our
-                community.
+              {data.quote}
               </p>
               
             </div>

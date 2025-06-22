@@ -47,7 +47,7 @@ const page = () => {
                 data-aos-duration={1500}
                 data-aos-offset={50}
               >
-                <img src="assets/images/hero/hero.png" alt="Hero" />
+                <img src="/d1.jpg" alt="Hero" />
               </div>
             </div>
           </div>
@@ -235,7 +235,9 @@ const page = () => {
                 </div>
               </div>
             </div>
-            <div className="col-6"></div>
+            <div className="col-6">
+              <img src="/d2.jpg" alt="Decade" />
+            </div>
             <div className="col-lg-12">
               {/* <div className="why-choose-images">
                 <div
