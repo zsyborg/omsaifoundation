@@ -502,19 +502,20 @@ const Footer3 = () => {
                   <i className="fas fa-location" />
                 </div>
                 <div className="content">
-                  Address <br />
                   Address: B 93 Lakhi Ram Park, Near Dharamveer Solanki Hospital Office, Rohini Sector 22 Delhi-110086<br/>
                   
                 </div>
               </div>
-
+              <a href="" rel="blank"></a><br/>
               <div className="info-item">
                 <div className="icon">
                   <i className="fab fa-youtube" />
                 </div>
                 <div className="content">
-                  
-                  Youtube <a href="https://www.youtube.com/@OmsaiKripafoundation">Om Sai Kripa Youtube</a><br/>
+                   
+              <Link href="https://www.youtube.com/@OmsaiKripafoundation">
+              Om Sai Kripa Youtube
+              </Link>
                 </div>
               </div>
             </div>

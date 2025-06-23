@@ -63,7 +63,7 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
               </div>
             </div>
           </div>
-          <div className="row gap-70">
+          <div className="row gap-70 justify-content-center text-center">
             <div className="col-lg-6">
               <div
                 className="team-item-two"
@@ -109,6 +109,81 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
                   <img src="/certi.jpeg" width="200px" style={{width:"400px"}} alt="Team Member" />
                     <p>
                     Pursued and completed her degree from school of mental health vihmans and has expertise in understanding human behaviiour and mental health working with us from past 6 years and has a great 10 years in this feild
+                    </p>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6">
+              <div
+                className="team-item-two"
+                data-aos="fade-up"
+                data-aos-delay={200}
+                data-aos-duration={1500}
+                data-aos-offset={50}
+              >
+                <div className="image">
+                </div>
+                <div className="content">
+                  <h3 className="name">
+                    <Link href="team-details">Anup Johri</Link>
+                  </h3>
+                  <span className="designation">Senior Counsellor & Motivational Speaker</span>
+                  <div className="" style={{justifyContent:'center'}}>
+                  <img src="/anuj.jpeg" width="200px" style={{width:"400px"}} alt="Team Member" /><br/>
+                    <p>
+                    32 Yearsof Experience
+                    </p>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6">
+              <div
+                className="team-item-two"
+                data-aos="fade-up"
+                data-aos-delay={200}
+                data-aos-duration={1500}
+                data-aos-offset={50}
+              >
+                <div className="image">
+                </div>
+                <div className="content">
+                  <h3 className="name">
+                    <Link href="team-details">Salil Kumar</Link>
+                  </h3>
+                  <span className="designation">Technical Advisor & Management</span>
+                  <div className="" style={{justifyContent:'center'}}>
+                  <img src="/salil.jpeg" width="200px" style={{width:"400px"}} alt="Team Member" /><br/>
+                    <p>
+                    </p>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-lg-6">
+              <div
+                className="team-item-two"
+                data-aos="fade-up"
+                data-aos-delay={200}
+                data-aos-duration={1500}
+                data-aos-offset={50}
+              >
+                <div className="image">
+                </div>
+                <div className="content">
+                  <h3 className="name">
+                    <Link href="team-details">Risab Sachdeva</Link>
+                  </h3>
+                  <span className="designation">Head OF Marketing & Advertising </span>
+                  <div className="" style={{justifyContent:'center'}}>
+                  <img src="/rishabh.jpeg" width="200px" style={{width:"400px"}} alt="Team Member" /><br/>
+                    <p>
+                    {/* Pursued and completed her degree from school of mental health vihmans and has expertise in understanding human behaviiour and mental health working with us from past 6 years and has a great 10 years in this feild */}
                     </p>
                     
                   </div>
