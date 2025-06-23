@@ -497,17 +497,16 @@ const Footer3 = () => {
                 </div>
               </div>
 
-
-
-        <div className="info-item">
+              <div className="info-item">
                 <div className="icon">
-                  <i className="fa-solid fas fa fa-location-pin" />
+                  <i className="fas fa-location" />
                 </div>
                 <div className="content">
+                  Address <br />
+                  Address: B 93 Lakhi Ram Park, Near Dharamveer Solanki Hospital Office, Rohini Sector 22 Delhi-110086<br/>
                   
-                  Address: B 93 Lakhi Ram Park, Near D.V.S Hospital Office ,Rohini Sector 22 Delhi-110086<br/>
                 </div>
-
+              </div>
 
               <div className="info-item">
                 <div className="icon">

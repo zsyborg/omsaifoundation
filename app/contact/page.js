@@ -62,26 +62,17 @@ const page = () => {
                   adjustments
                 </p>
                 <div className="contact-info-wrap mt-40">
+                  
                   <div className="contact-info-item">
                     <div className="icon">
-                      <i className="far fa-map-marker-alt" />
+                      <i className="fas fa-location" />
                     </div>
                     <div className="text">
                       <span className="title">Rehab Location</span>
-                      <p>B 93 Lakhi Ram Park, Near D.V.S Hospital Office ,Rohini Sector 22 Delhi-110086</p>
+                      Address: B 93 Lakhi Ram Park, Near Dharamveer Solanki Hospital Office, Rohini Sector 22 Delhi-110086<br/>
+
                     </div>
                   </div>
-                  {/* <div className="contact-info-item">
-                    <div className="icon">
-                      <i className="far fa-envelope" />
-                    </div>
-                    <div className="text">
-                      <span className="title">Email Address</span>
-                      <a href="mailto:support@gmail.com">support@gmail.com</a>
-                      <br />
-                      <a href="mailto:uintechservice.com">uintechservice.com</a>
-                    </div>
-                  </div> */}
                   <div className="contact-info-item">
                     <div className="icon">
                       <i className="far fa-phone-volume" />
