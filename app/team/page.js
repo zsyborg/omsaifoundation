@@ -97,15 +97,16 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
                 data-aos-duration={1500}
                 data-aos-offset={50}
               >
-                {/* <div className="image">
-                  <img src="assets/images/team/member6.jpg" alt="Team Member" />
-                </div> */}
+                <div className="image">
+                </div>
                 <div className="content">
                   <h3 className="name">
                     <Link href="team-details">Dr. Rashmi Chandiwal</Link>
                   </h3>
                   <span className="designation">Psychiatrist</span>
-                  <div className="bottom-part">
+                  <div className="" style={{justifyContent:'center'}}>
+                  <img src="/rashmi.jpeg" width="200px" style={{width:"400px"}} alt="Team Member" /><br/>
+                  <img src="/certi.jpeg" width="200px" style={{width:"400px"}} alt="Team Member" />
                     <p>
                     Pursued and completed her degree from school of mental health vihmans and has expertise in understanding human behavfiour and mental health working with us from past 6 years and has a great 10 years in this feild
                     </p>
