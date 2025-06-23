@@ -1,5 +1,5 @@
 "use client";
-import useClickOutside from "@/utility/useClickOutside";
+import useClickOutside from "../utility/useClickOutside";
 import { Fragment, useEffect, useState } from "react";
 
 const ImgViews = ({ close, src }) => {

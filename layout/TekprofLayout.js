@@ -1,7 +1,7 @@
 "use client";
-import ImageView from "@/components/ImageView";
-import VideoPopup from "@/components/VideoPopup";
-import { tekprofUtility } from "@/utility";
+import ImageView from "../components/ImageView";
+import VideoPopup from "../components/VideoPopup";
+import { tekprofUtility } from "../utility";
 import { Fragment, useEffect } from "react";
 import Footer from "./Footer";
 import Header from "./Header";

@@ -102,12 +102,12 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
                 </div> */}
                 <div className="content">
                   <h3 className="name">
-                    <Link href="team-details">Dr. Garima Bhatnagar</Link>
+                    <Link href="team-details">Dr. Rashmi Chandiwal</Link>
                   </h3>
-                  <span className="designation">General Physician</span>
+                  <span className="designation">Psychiatrist</span>
                   <div className="bottom-part">
                     <p>
-                    DGNM. from. MAHATMA_GAUTAMA_BUDDHA.INSTITUTE.OF.MEDICAL.SCIENCE Currently serving his duty in OZAWSI Hospital noida working with us from past 5 years.
+                    Pursued and completed her degree from school of mental health vihmans and has expertise in understanding human behavfiour and mental health working with us from past 6 years and has a great 10 years in this feild
                     </p>
                     
                   </div>

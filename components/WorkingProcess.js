@@ -1,5 +1,5 @@
 "use client";
-import { sliderProps } from "@/utility/sliderProps";
+import { sliderProps } from "../utility/sliderProps";
 import { useState } from "react";
 import { Accordion } from "react-bootstrap";
 import Slider from "react-slick";

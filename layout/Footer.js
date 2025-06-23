@@ -496,6 +496,16 @@ const Footer3 = () => {
                   Call : <a href="callto:+919643024295">+919643024295</a>
                 </div>
               </div>
+
+              <div className="info-item">
+                <div className="icon">
+                  <i className="fab fa-youtube" />
+                </div>
+                <div className="content">
+                  
+                  Youtube <a href="https://www.youtube.com/@OmsaiKripafoundation">Om Sai Kripa Youtube</a><br/>
+                </div>
+              </div>
             </div>
           </div>
           <div className="col-xl-3 col-md-3 col-6">

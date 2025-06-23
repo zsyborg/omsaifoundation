@@ -515,9 +515,9 @@ const Menu = ({ logo = "assets/images/logos/logo.png", singleMenu }) => {
                 <Link href="#">About Us</Link>
                 
                 <ul>
-                  <li>
+                  {/* <li>
                     <Link href="/aligarh">Aligarh Branch</Link>
-                  </li>
+                  </li> */}
                   
                   <li className="dropdown">
                     <a href="/delhi">Delhi Rohini Branch</a>
@@ -613,6 +613,9 @@ const Menu = ({ logo = "assets/images/logos/logo.png", singleMenu }) => {
               </li>
               <li>
                 <Link href="/team">Our Team</Link>
+              </li>
+              <li>
+                <Link href="/gallery">Gallery</Link>
               </li>
 
               <li>

@@ -1,10 +1,10 @@
-import ClientLogo from "@/components/ClientLogo";
-import Counter from "@/components/Counter";
-import Team from "@/components/Team";
-import Testimonials from "@/components/testimonials/Testimonials1";
+import ClientLogo from "../components/ClientLogo";
+import Counter from "../components/Counter";
+import Team from "../components/Team";
+import Testimonials from "../components/testimonials/Testimonials1";
 
-import { WorkingProcess2 } from "@/components/WorkingProcess";
-import TekprofLayout from "@/layout/TekprofLayout";
+import { WorkingProcess2 } from "../components/WorkingProcess";
+import TekprofLayout from "../layout/TekprofLayout";
 import Link from "next/link";
 
 const page = () => {
@@ -69,7 +69,7 @@ const page = () => {
                   10+ Years of Experience
                 </span>
                 <h2>
-                Welcome To 🕉️Sai Kirpa Foundation
+                Welcome To 🕉️Sai Kripa Foundation
                 </h2>
                 <div className="row justify-content-center">
                   <div className="col-lg-12">
