@@ -38,9 +38,7 @@ const page = () => {
             <div className="col-4">
               <img className="img-fluid" src='/9.jpeg' alt="image"/>
             </div>
-            <div className="col-4">
-              <img className="img-fluid" src='/10.jpeg' alt="image"/>
-            </div>
+            
           </div>
         </div>
       </section>
