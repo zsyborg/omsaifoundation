@@ -12,7 +12,7 @@ import "../public/assets/css/style.css";
 
 export const metadata = {
   title: "Om Sai Kripa Foundation",
-  description: "De-Addication & Rehablitation Wellness Center",
+  description: "De-Addiction & Rehabilitation Wellness Center",
 };
 
 export default function RootLayout({ children }) {

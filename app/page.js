@@ -34,7 +34,7 @@ const page = () => {
                 data-aos-offset={50}
               >
                 <span className="sub-title mb-15 mt-30">Om Sai Kripa Foundation</span>
-                <h1>De-Addication & Rehablitation Wellness Center</h1>
+                <h1>De-Addiction & Rehabilitation Wellness Center</h1>
                 <p>
                   Take care of your loved ones and make them better.
                 </p>
