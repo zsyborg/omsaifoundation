@@ -1,9 +1,9 @@
-import ClientLogo from "@/components/ClientLogo";
-import Counter from "@/components/Counter";
-import PageBanner from "@/components/PageBanner";
-import Team from "@/components/Team";
-import { Testimonials2 } from "@/components/testimonials/Testimonials2";
-import TekprofLayout from "@/layout/TekprofLayout";
+import ClientLogo from "../../components/ClientLogo";
+import Counter from "../../components/Counter";
+import PageBanner from "../../components/PageBanner";
+import Team from "../../components/Team";
+import { Testimonials2 } from "../../components/testimonials/Testimonials2";
+import TekprofLayout from "../../layout/TekprofLayout";
 const page = () => {
   return (
     <TekprofLayout

@@ -1,6 +1,6 @@
-import PageBanner from "@/components/PageBanner";
-import { ProgressBar3 } from "@/components/ProgressBar";
-import TekprofLayout from "@/layout/TekprofLayout";
+import PageBanner from "../../components/PageBanner";
+import { ProgressBar3 } from "../../components/ProgressBar";
+import TekprofLayout from "../../layout/TekprofLayout";
 import Link from "next/link";
 const page = () => {
   return (

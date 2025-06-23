@@ -1,5 +1,5 @@
 "use client";
-import { tekprofUtility } from "..//utility";
+import { tekprofUtility } from "../utility";
 import Link from "next/link";
 import { Fragment, useEffect } from "react";
 const Sidebar = () => {
