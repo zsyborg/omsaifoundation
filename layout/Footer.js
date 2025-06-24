@@ -506,16 +506,15 @@ const Footer3 = () => {
                   
                 </div>
               </div>
-              <a href="" rel="blank"></a><br/>
-              <div className="info-item">
+              <div className="">
                 <div className="icon">
-                  <i className="fab fa-youtube" />
-                </div>
-                <div className="content">
-                   
-              <Link href="https://www.youtube.com/@OmsaiKripafoundation">
+                  <i className="fab fa-youtube" style={{paddingRight:'26px'}}/>
+              <a href="https://www.youtube.com/@OmsaiKripafoundation" >
               Om Sai Kripa Youtube
-              </Link>
+              </a>
+                </div>
+                <div className="">
+                   
                 </div>
               </div>
             </div>
