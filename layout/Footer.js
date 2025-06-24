@@ -507,12 +507,7 @@ const Footer3 = () => {
                 </div>
               </div>
               <div className="">
-                <div className="icon">
-                  <i className="fab fa-youtube" style={{paddingRight:'26px'}}/>
-              <a href="https://www.youtube.com/@OmsaiKripafoundation" >
-              Om Sai Kripa Youtube
-              </a>
-                </div>
+                
                 <div className="">
                    
                 </div>
@@ -571,6 +566,13 @@ const Footer3 = () => {
               <p>
               {data.quote}
               </p>
+
+              <div className="">
+                  <i className="fab fa-youtube" style={{paddingRight:'26px'}}/>
+              <a href="https://www.youtube.com/@OmsaiKripafoundation" >
+              Om Sai Kripa Youtube
+              </a>
+                </div>
               
             </div>
           </div>
