@@ -9,7 +9,7 @@ const page = () => {
     <TekprofLayout
     header={5}
     footer={3}>
-      <PageBanner pageName="28 DAYS DETOX & WITHDRAWAL" />
+      <PageBanner pageName="Detoxification" />
       {/* About Page About Area Start */}
       <section className="about-page-about-area pt-130 rpt-100 pb-110 rpb-80">
         <div className="container-fluid">
@@ -23,7 +23,7 @@ const page = () => {
                   data-aos-offset={50}
                 >
                   <span className="sub-title color-primary mb-10">
-                  28 DAYS DETOX & WITHDRAWAL PROGRAM
+                  Detoxification
                   </span>
                  
                 </div>
