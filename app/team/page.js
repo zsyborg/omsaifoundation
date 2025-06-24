@@ -108,7 +108,7 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
                   <img src="/rashmi.jpeg" width="200px" style={{width:"400px"}} alt="Team Member" /><br/>
                   <img src="/certi.jpeg" width="200px" style={{width:"400px"}} alt="Team Member" />
                     <p>
-                    Total 11 YEars of Experience. Pursued and completed her degree from school of mental health vihmans and has expertise in understanding human behaviiour and mental health working with us from past 6 years and has a great 10 years in this feild
+                    Total 11 Years of Experience. Pursued and completed her degree from school of mental health vihmans and has expertise in understanding human behaviour and mental health working with us from past 6 years and has a great 10 years in this field.
                     </p>
                     
                   </div>
