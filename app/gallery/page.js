@@ -12,6 +12,18 @@ const page = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-4">
+              <img className="img-fluid" src='/ad/1.jpeg' alt="image"/>
+            </div>
+            <div className="col-4">
+              <img className="img-fluid" src='/ad/2.jpeg' alt="image"/>
+            </div>
+            <div className="col-4">
+              <img className="img-fluid" src='/ad/3.jpeg' alt="image"/>
+            </div>
+            <div className="col-4">
+              <img className="img-fluid" src='/ad/4.jpeg' alt="image"/>
+            </div>
+            <div className="col-4">
               <img className="img-fluid" src='/1.jpeg' alt="image"/>
             </div>
             <div className="col-4">

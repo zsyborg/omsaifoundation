@@ -127,7 +127,7 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
                 </div>
                 <div className="content">
                   <h3 className="name">
-                    <Link href="team-details">Anup Johri</Link>
+                    <Link href="team-details">Anuj Johri</Link>
                   </h3>
                   <span className="designation">Senior Counsellor & Motivational Speaker</span>
                   <div className="" style={{justifyContent:'center'}}>
@@ -177,7 +177,7 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
                 </div>
                 <div className="content">
                   <h3 className="name">
-                    <Link href="team-details">Risab Sachdeva</Link>
+                    <Link href="team-details">Rishab Sachdeva</Link>
                   </h3>
                   <span className="designation">Head OF Marketing & Advertising </span>
                   <div className="" style={{justifyContent:'center'}}>
