@@ -82,7 +82,7 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
                   <div className="">
                   <img src="/gautam.jpeg" className="img-fluid" alt="Team Member" />
                     <p>
-                    Extensive experience in mental health diagnosis and treatment. For thirteen years, he has specialized in the prevention and treatment of chemical dependency as a, lead counselor, addictions therapist, and substance abuse specialist.
+                    25 Years Of Experience. Extensive experience in mental health diagnosis and treatment. For thirteen years, he has specialized in the prevention and treatment of chemical dependency as a, lead counselor, addictions therapist, and substance abuse specialist.
                     </p>
                     
                   </div>
@@ -108,7 +108,7 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
                   <img src="/rashmi.jpeg" width="200px" style={{width:"400px"}} alt="Team Member" /><br/>
                   <img src="/certi.jpeg" width="200px" style={{width:"400px"}} alt="Team Member" />
                     <p>
-                    Pursued and completed her degree from school of mental health vihmans and has expertise in understanding human behaviiour and mental health working with us from past 6 years and has a great 10 years in this feild
+                    Total 11 YEars of Experience. Pursued and completed her degree from school of mental health vihmans and has expertise in understanding human behaviiour and mental health working with us from past 6 years and has a great 10 years in this feild
                     </p>
                     
                   </div>
