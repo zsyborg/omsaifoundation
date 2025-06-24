@@ -1,6 +1,6 @@
 "use client";
-import ImageView from "../components/ImageView";
-import VideoPopup from "../components/VideoPopup";
+// import ImageView from "../components/ImageView";
+// import VideoPopup from "../components/VideoPopup";
 import { tekprofUtility } from "../utility";
 import { Fragment, useEffect } from "react";
 import Footer from "./Footer";
@@ -31,8 +31,8 @@ const TekprofLayout = ({
   }, []);
   return (
     <Fragment>
-      <VideoPopup />
-      <ImageView />
+      {/* <VideoPopup />
+      <ImageView /> */}
       <div className={`page-wrapper ${bodyClass}`}>
         <Header header={header} singleMenu={singleMenu} />
         <Sidebar />
