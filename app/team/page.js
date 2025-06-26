@@ -20,16 +20,17 @@ const page = () => {
               >
                 <div className="section-title mb-30">
                   <h2>
-                    Mr. Ajeet Singh - Director & Founder
+                  Mr. Gautam Sachdeva - Director & Founder
                   </h2>
                 </div>
                 <p>
-                “Combined with its core knowledge and devoted doctors, “🕉️ Sai Kirpa Foundation” has been effectively able to transform the lives of addicted patients. Menace of Alcohol consumption in our society does not only ruin the drunkard’s house but also spreads badness around the society. With the objective of eradicating such dreadful disease, we serve the people with our helping hands to lead a happy life after getting rid of addiction of Gutkha, Smoking, Alcohol, Ganja/ Charas/ Afim, and Injection/ Drugs.Till now, large numbers of addicted people are benefited with our dedicated efforts.
+                25 Years Of Experience. Extensive experience in mental health diagnosis and treatment. For thirteen years, he has specialized in the prevention and treatment of chemical dependency as a, lead counselor, addictions therapist, and substance abuse specialist.
+                
 </p>
-<p>
+{/* <p>
   
 With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Foundation” is rehabilitation and reformation of the addicted people. Our objective is to be nation’s foremost nasha mukti centre by providing round-the-clock product deliveries and featured services to our patients. We believe in offering a convenient and safe shopping experience for the betterment of the society
-                </p>
+                </p> */}
                 
               </div>
             </div>
@@ -76,13 +77,17 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
                 </div>
                 <div className="content">
                   <h3 className="name">
-                    <Link href="team-details">Mr. Gautam Sachdeva</Link>
+                    <Link href="team-details">
+                    Mr. Ajeet Singh
+                    </Link>
                   </h3>
                   <span className="designation">Director Of Management</span>
                   <div className="">
                   <img src="/gautam.jpeg" className="img-fluid" alt="Team Member" />
                     <p>
-                    25 Years Of Experience. Extensive experience in mental health diagnosis and treatment. For thirteen years, he has specialized in the prevention and treatment of chemical dependency as a, lead counselor, addictions therapist, and substance abuse specialist.
+                
+                    “Combined with its core knowledge and devoted doctors, “🕉️ Sai Kirpa Foundation” has been effectively able to transform the lives of addicted patients. Menace of Alcohol consumption in our society does not only ruin the drunkard’s house but also spreads badness around the society. With the objective of eradicating such dreadful disease, we serve the people with our helping hands to lead a happy life after getting rid of addiction of Gutkha, Smoking, Alcohol, Ganja/ Charas/ Afim, and Injection/ Drugs.Till now, large numbers of addicted people are benefited with our dedicated efforts.    
+
                     </p>
                     
                   </div>
