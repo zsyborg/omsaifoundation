@@ -41,7 +41,7 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
                 data-aos-duration={1500}
                 data-aos-offset={50}
               >
-                <img src="/ajeet.png" alt="Team" />
+                <img src="/gautam.jpeg" alt="Team" />
               </div>
             </div>
           </div>
@@ -83,7 +83,7 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
                   </h3>
                   <span className="designation">Director Of Management</span>
                   <div className="">
-                  <img src="/gautam.jpeg" className="img-fluid" alt="Team Member" />
+                  <img src="/ajeent.png" className="img-fluid" alt="Team Member" />
                     <p>
                 
                     “Combined with its core knowledge and devoted doctors, “🕉️ Sai Kirpa Foundation” has been effectively able to transform the lives of addicted patients. Menace of Alcohol consumption in our society does not only ruin the drunkard’s house but also spreads badness around the society. With the objective of eradicating such dreadful disease, we serve the people with our helping hands to lead a happy life after getting rid of addiction of Gutkha, Smoking, Alcohol, Ganja/ Charas/ Afim, and Injection/ Drugs.Till now, large numbers of addicted people are benefited with our dedicated efforts.    
