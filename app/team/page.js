@@ -20,7 +20,7 @@ const page = () => {
               >
                 <div className="section-title mb-30">
                   <h2>
-                  Mr. Gautam Sachdeva - Director & Founder
+                  Mr. Gautam Sachdeva - President/Founder
                   </h2>
                 </div>
                 <p>
@@ -83,7 +83,7 @@ With its dedicated and experienced doctor, main goal of “🕉️ Sai Kirpa Fou
                   </h3>
                   <span className="designation">Director Of Management</span>
                   <div className="">
-                  <img src="/ajeent.png" className="img-fluid" alt="Team Member" />
+                  <img src="/ajeet.png" className="img-fluid" alt="Team Member" />
                     <p>
                 
                     “Combined with its core knowledge and devoted doctors, “🕉️ Sai Kirpa Foundation” has been effectively able to transform the lives of addicted patients. Menace of Alcohol consumption in our society does not only ruin the drunkard’s house but also spreads badness around the society. With the objective of eradicating such dreadful disease, we serve the people with our helping hands to lead a happy life after getting rid of addiction of Gutkha, Smoking, Alcohol, Ganja/ Charas/ Afim, and Injection/ Drugs.Till now, large numbers of addicted people are benefited with our dedicated efforts.    
