@@ -365,6 +365,9 @@ const Header4 = ({ singleMenu }) => {
 const Header5 = ({ singleMenu }) => {
   return (
     <header className="main-header header-one white-menu menu-absolute">
+      <div className="full">
+        Contact: +91 9811981279
+      </div>
       {/*Header-Upper*/}
       <div className="header-upper bordered-bottom bgc-black">
         <div className="container-fluid clearfix">
