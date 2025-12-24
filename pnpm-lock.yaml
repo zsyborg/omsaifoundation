@@ -21,8 +21,8 @@ importers:
         specifier: ^14.2.23
         version: 14.2.30(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       nodemailer:
-        specifier: ^7.0.3
-        version: 7.0.3
+        specifier: ^7.0.11
+        version: 7.0.11
       react:
         specifier: ^18.3.1
         version: 18.3.1
@@ -264,8 +264,8 @@ packages:
       sass:
         optional: true
 
-  nodemailer@7.0.3:
-    resolution: {integrity: sha512-Ajq6Sz1x7cIK3pN6KesGTah+1gnwMnx5gKl3piQlQQE/PwyJ4Mbc8is2psWYxK3RJTVeqsDaCv8ZzXLCDHMTZw==}
+  nodemailer@7.0.11:
+    resolution: {integrity: sha512-gnXhNRE0FNhD7wPSCGhdNh46Hs6nm+uTyg+Kq0cZukNQiYdnCsoQjodNP9BQVG9XrcK/v6/MgpAPBUFyzh9pvw==}
     engines: {node: '>=6.0.0'}
 
   object-assign@4.1.1:
@@ -583,7 +583,7 @@ snapshots:
       - '@babel/core'
       - babel-plugin-macros
 
-  nodemailer@7.0.3: {}
+  nodemailer@7.0.11: {}
 
   object-assign@4.1.1: {}
 
